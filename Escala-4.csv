@@ -1,0 +1,16 @@
+Id_Paciente,Edad,MISE,MoCA,Volumen_Hipocampo,Años_Diagnostico,Nivel_Actividad_Fisica,Indice_Masa_Corporal,Porcentaje_Perdida_Memoria
+1,67,25,21,3.2,5,Moderado,24.5,0.12
+2,72,19,17,2.8,7,Bajo,27.1,0.18
+3,65,27,23,3.5,3,Alto,22.8,0.09
+4,80,15,13,2.5,10,Bajo,29.4,0.25
+5,74,20,19,3.0,6,Moderado,26.2,0.14
+6,69,22,20,3.1,4,Moderado,25.0,0.11
+7,78,18,16,2.7,8,Bajo,28.7,0.2
+8,63,26,24,3.6,2,Alto,21.9,0.07
+9,71,21,18,3.1,6,Moderado,26.8,0.15
+10,76,17,14,2.6,9,Bajo,29.0,0.22
+11,68,23,21,3.3,4,Moderado,24.2,0.1
+12,64,28,25,3.7,1,Alto,20.5,0.05
+13,79,16,12,2.4,11,Bajo,30.1,0.28
+14,70,24,22,3.4,5,Moderado,23.7,0.12
+15,75,19,17,2.9,7,Bajo,27.5,0.17
